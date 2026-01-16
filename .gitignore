@@ -1,0 +1,11 @@
+# PowerShell
+*.user
+*.suo
+
+# Outputs
+*.csv
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
